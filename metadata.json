@@ -1,0 +1,8 @@
+{
+  "name": "NOVASIOR — Digital Assets & Wallpapers",
+  "description": "Exclusive high-resolution 8K motivational wallpapers, life trackers, and digital assets for high performers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
